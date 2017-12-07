@@ -31,4 +31,15 @@
         android:textSize="17sp"
         android:layout_marginTop="40dp"/>
 
+    <Button
+        android:id="@+id/btnfinalizar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:textSize="15sp"
+        android:layout_marginTop="165dp"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:text="Finalizar Introdução"/>
+
 </LinearLayout>
